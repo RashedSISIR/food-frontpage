@@ -1,0 +1,153 @@
+
+body{
+margin: 0%;
+<link>
+
+@import
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nunito+Sans:wght@200&family=Poppins&display=swap" rel="stylesheet">
+ 
+  
+}
+.fast-part {
+  display: flex;
+}
+.header img {
+  width: 100%;
+}
+.header {
+  width: 50%;
+  padding-left:30px;
+
+ 
+}
+.header h1{
+    font-size: 50px;
+
+  
+   
+}
+
+.header span{
+    color: #F33253;
+}
+.header a{
+    text-decoration: none;
+  background-image: linear-gradient(#EB6076,#F33253);
+  padding: 15px 20px;
+  border-radius: 15px;
+  color: white;
+  font-weight: 800px;
+  
+
+}
+.header a :hover{
+
+}
+.second-part{
+    display: flex;
+    padding-bottom: 10rem;
+}
+.header-2 p{
+    text-align: justify;
+    font-size: 30px;
+}
+.header-2{
+    width: 50%;
+    background-color: beige;
+}
+.header-2 img{
+    width: 100%;
+    
+}
+.header-2 a{
+    text-decoration: none;
+    background-image: linear-gradient(#EB6076,#F33253);
+    padding: 15px 20px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 800px;
+    
+
+}
+.my-recipies{
+  
+text-align: center;
+padding-bottom: 5rem;
+ 
+}
+.my-recipies h1{
+  font-size: 50px;
+  color: #F33253;
+  font-family: 'Bebas Neue', cursive;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.my-recipies p{
+  font-size: 25px;
+}
+.recipies{
+  display: flex;
+  width: 60%;
+  margin: auto;
+  padding-bottom: 10rem;
+
+ 
+ 
+  
+}
+.racipies-name{
+  width:50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 50px gray;
+}
+.racipies-name img{
+  width: 30rem;
+  border-radius: 20px;
+
+}
+ :hover.racipies-name img{
+  
+	-webkit-transform: rotate(15deg) scale(1.4);
+	transform: rotate(0deg) scale(1.4);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+
+
+}
+.racipies-name h2{
+  color: tomato;
+}
+.reveiw-page{
+  display: flex;
+  width: 70%;
+  margin: auto;
+  padding: 50px ;
+  border-radius: 7px;
+  box-shadow: 10px 10px 50px gray;
+  justify-content: center;
+  justify-content: space-between;
+  
+
+}
+
+.review{
+  justify-content: space-between;
+
+ 
+
+}
+.end-part{
+  text-align: center;
+  background-color:rgb(19, 19, 19);
+  padding-bottom: 10rem;
+  color: rgb(119, 121, 122);
+letter-spacing: 5px;
+}
+.end-part span{
+  color: #F33253;
+}
